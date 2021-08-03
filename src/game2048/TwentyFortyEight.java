@@ -14,6 +14,17 @@ public class TwentyFortyEight {
 		jPanel.setLayout(null);
 		Grid grid=new Grid();
 		grid.setSize(new Dimension(161,161));jPanel.add(grid);
+		
+		ScoreBoard score=new ScoreBoard(10);
+		score.setSize(new Dimension(480, 380));
+		score.setLayout(null);
+		score.setOpaque(false);
+		jPanel.add(score);
+		jPanel.add(grid);
+		
+		
+		
+		
 		window.setContentPane(jPanel);
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setSize(new Dimension(480, 380));

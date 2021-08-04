@@ -16,8 +16,8 @@ It was originally written in JavaScript and CSS and released on 9 March 2014 as 
 
 Although there might be an optimal strategy to play, there is always some level of chance. If you beat the game and would like to master it, try to finish with a smaller score. That would mean that you finished with less moves.
 
-## 2048-Game screenshot
-<img src=https://github.com/danipedro2006/ width="290"  height="280">  
+## 2048-screenshot
+<img src=https://github.com/danipedro2006/2048-Game-in-Java/blob/main/src/screenshot/javaw_Idmqf2trLE.png width="400"  height="320">  
 
 ## Technologies
 * Java - version 1.8

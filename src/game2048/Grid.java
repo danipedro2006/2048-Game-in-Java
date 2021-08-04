@@ -5,16 +5,15 @@ import java.awt.Graphics;
 
 import javax.swing.JPanel;
 
-public class Grid extends JPanel{
-	Grid(){
-	update();
+public class Grid extends JPanel {
+	Grid() {
+		update();
 	}
 
 	private void update() {
 		this.repaint();
-		
 	}
-	
+
 	public void paintComponent(Graphics g) {
 		g.setColor(Color.BLACK);
 		g.drawRect(0, 0, 160, 160);

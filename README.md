@@ -20,8 +20,8 @@ Although there might be an optimal strategy to play, there is always some level 
 <img src=https://github.com/danipedro2006/2048-Game-in-Java/blob/main/src/screenshot/javaw_Idmqf2trLE.png width="400"  height="320">  
 
 ## To do
-- [x] review grafic interface design
-- [] fix bugs in score.java
+- [x] - GUI redesign  
+- [ ] - fix bugs in score.java
 
 
 ## Technologies
